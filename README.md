@@ -1,1 +1,1 @@
-# tic-tac-toe
+This is project is part of The Odin Project's Javascript course. The objective is to build a tic-tac-toe game app.
